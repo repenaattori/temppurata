@@ -25,7 +25,7 @@
   "contributors": [],
   "scripts": {
     "dev": "",
-    "test": ""
+    "test": "vitest --no-watch"
   },
   "dependencies": {
     "vitest": "^3.2.4"
